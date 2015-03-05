@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F40B8375-063D-4696-AD70-94486DE43819</string>
+	<key>IDESourceControlProjectName</key>
+	<string>PainterDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C00EA6AE-D6F5-4BE9-99EB-27E1C1713061</key>
+		<string>ssh://github.com/shihsan/LiftMenu_Painter.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>PainterDemo.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C00EA6AE-D6F5-4BE9-99EB-27E1C1713061</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/shihsan/LiftMenu_Painter.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C00EA6AE-D6F5-4BE9-99EB-27E1C1713061</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C00EA6AE-D6F5-4BE9-99EB-27E1C1713061</string>
+			<key>IDESourceControlWCCName</key>
+			<string>PainterDemo</string>
+		</dict>
+	</array>
+</dict>
+</plist>
